@@ -1,0 +1,78 @@
+body {
+    background-color: forestgreen;
+    text-align: center;
+    color: white;
+}
+
+
+.dirt1 {
+    position: absolute;
+    left: 5%;
+    top: 30%
+}
+
+.mole1 {
+    position: absolute;
+    left: 11%;
+    top: 10%;
+}
+
+.dirt2 {
+    position: absolute;
+    top: 30%;
+    left: 36%;
+}
+
+.mole2 {
+    position: absolute;
+    top: 10%;
+    left: 42%
+}
+
+.dirt3 {
+    position: absolute;
+    top: 30%;
+    left: 65%
+}
+
+.mole3 {
+    position: absolute;
+    top: 10%;
+    left: 71%
+}
+
+.dirt4 {
+    position: absolute;
+    top: 74%;
+    left: 5%
+}
+
+.mole4 {
+    position: absolute;
+    top: 55%;
+    left: 11%;
+}
+
+.dirt5 {
+    position: absolute;
+    top: 74%;
+    left: 36%
+}
+
+.mole5 {
+    position: absolute;
+    top: 55%;
+    left: 42%;
+}
+
+.dirt6 {
+    position: absolute;
+    top: 74%;
+    left: 66%;
+}
+
+.mole6 {
+    position: absolute;
+    top: 55%;
+    left: 72%;
+}
